@@ -4,3 +4,4 @@
  <p>Default Data exchange format is used is JSON.</p>
  <p>CRUD operations have been tested with the Postman tool.</p>
  <p>The project was created from <a href="https://start.spring.io/.">Spring Initializr<p>
+ <p>Spring Web dependency has been added to the project.</p>
