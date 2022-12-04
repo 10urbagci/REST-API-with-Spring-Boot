@@ -1,2 +1,2 @@
 # REST API with Spring Boot
- REST API CRUD Implementation
+ <p>@SpringBootApplication , @RestController , @RequestBody , @RequestMapping , @GetMapping , @PostMapping , @PutMapping , @DeleteMapping annotations are used.</p>
